@@ -1,7 +1,7 @@
 # Tasks
 
 <br>
-1. Create table queries :<br>
+1. Create table queries :<br><br>
 • Write create table query for author table. Given example is the simplest form, you are
 required to tell if a column is a primary key, or a foreign key etc.<br>
 • Write create table query for book table.<br>
@@ -9,7 +9,7 @@ required to tell if a column is a primary key, or a foreign key etc.<br>
 • Write create table query for borrowed table.<br>
 <br>
 2. SQL queries that returns the following . Write a SINGLE query to return the desired
-result. Step by step queries will NOT be accepted.<br>
+result. Step by step queries will NOT be accepted.<br><br>
 • List isbn of the overdue books which supposed to be returned by 8.10.2023. <br>
 • List isbn of all books which are written by Yuval Noah Harari. <br>
 • List studentID of the student(s) who borrowed ’1984’ <br>
